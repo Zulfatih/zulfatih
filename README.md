@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zulfatih
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java Springboot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
