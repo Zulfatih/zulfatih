@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Zulfatih</h1>
-<h3 align="center">High interest in Software Development, especially with Java language.</h3>
+<h3 align="center">Backend Developer and Game Developer.</h3>
 <img align="right" alt="monkey-coding" width="300" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulfatih&label=Profile%20views&color=0e75b6&style=flat" alt="zulfatih" /> </p>
